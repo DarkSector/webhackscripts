@@ -1,5 +1,5 @@
  ==UserScript==
-// @name         Fuck off nosleep
+// @name         Fuck off Subreddit 
 // @namespace    http://your.homepage/
 // @version      0.1
 // @description  enter something useful
