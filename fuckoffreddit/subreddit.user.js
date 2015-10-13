@@ -1,4 +1,4 @@
- ==UserScript==
+// ==UserScript==
 // @name         Fuck off Subreddit 
 // @namespace    http://your.homepage/
 // @version      0.1
